@@ -1,0 +1,2 @@
+# -In-Depth-Analysis-of-PPOB-Registration-Trends-Product-Usage-Market-Share-Competitors-and-Segments
+This project analyzes registration trends to identify peak user sign-up periods, examines product usage to find the most popular PPOB services, evaluates market share alongside competitors like digital wallets and banks, and segments users by demographics and behavior to uncover key customer profiles and target markets.
